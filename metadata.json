@@ -1,0 +1,6 @@
+{
+  "name": "Mounira - Changeur de Voix",
+  "description": "Change ta voix en un clic avec Mounira. Enregistre ta voix, applique des effets (grave, aiguë, robot, écho, monstre, écureuil) et télécharge en WAV dans ton navigateur.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
